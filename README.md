@@ -6,7 +6,7 @@ Hi, my name is Roman and I am a programmer. Started programming in summer 2020.
 
 # What I worked with:
 - Flask
-- Fast Api
+- FastApi
 - Tkinter
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayHelloRoman&show_icons=true&theme=radical)
