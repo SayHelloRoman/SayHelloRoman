@@ -2,7 +2,7 @@
 
 # Roman - SayHelloRoman
 
-Hi, my name is Roman and I am a Python programmer. Started programming in summer 2020
+Hi, my name is Roman and I am a programmer. Started programming in summer 2020.
 
 # What I worked with:
 - Flask
