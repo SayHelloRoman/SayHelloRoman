@@ -5,6 +5,7 @@
 Hi, my name is Roman and I am a programmer. Started programming in summer 2020.
 
 # What I worked with:
+- Discord.py
 - FastApi
 - Tkinter
 
