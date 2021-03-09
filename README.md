@@ -1,7 +1,8 @@
-![Python](https://img.shields.io/badge/-Python-blue)
-![C++](https://img.shields.io/badge/-C++-blue)
-![css](https://img.shields.io/badge/-css-orange)
-![html](https://img.shields.io/badge/-html-orange)
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
+</div>
+<div align="center">
 
 # Roman - SayHelloRoman
 
