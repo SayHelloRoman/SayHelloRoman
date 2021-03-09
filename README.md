@@ -1,5 +1,7 @@
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![C++](https://img.shields.io/badge/-C++-blue)
+![css](https://img.shields.io/badge/-css-orange)
+![html](https://img.shields.io/badge/-html-orange)
 
 # Roman - SayHelloRoman
 
