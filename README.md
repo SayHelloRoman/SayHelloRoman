@@ -1,7 +1,11 @@
 
 
-![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/Java-orange.svg?style=flat&logo=Java)
+![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
 
 # Roman - SayHelloRoman
 
