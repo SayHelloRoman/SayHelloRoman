@@ -9,7 +9,7 @@
 
 # Roman - SayHelloRoman
 
-Hi, my name is Roman and I am a programmer. Started programming in summer 2020.
+Hi, my name is Roman and I am a programmer.
 
 # What I worked with:
 - Discord.py
