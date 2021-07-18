@@ -15,6 +15,7 @@ Hi, my name is Roman and I am a programmer.
 - Discord.py
 - FastApi
 - Flask
+- Aiohttp
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayHelloRoman&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayHelloRoman&layout=compact&theme=radical)](https://github.com/SayHelloRoman/github-readme-stats)
