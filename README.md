@@ -1,3 +1,6 @@
+# Roman - SayHelloRoman
+
+Hi, my name is Roman and I am a programmer.
 
 # My skills:
 
@@ -16,10 +19,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-# Roman - SayHelloRoman
-
-Hi, my name is Roman and I am a programmer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayHelloRoman&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayHelloRoman&layout=compact)](https://github.com/SayHelloRoman/github-readme-stats)
