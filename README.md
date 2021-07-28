@@ -17,6 +17,6 @@ Hi, my name is Roman and I am a programmer.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayHelloRoman&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sayhelloroman)](https://github.com/anuraghazra/github-readme-stats)
+![ok](https://github-readme-stats.vercel.app/api/wakatime?username=SayHelloRoman)
 
 
