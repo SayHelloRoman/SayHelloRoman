@@ -16,7 +16,7 @@ Hi, my name is Roman and I am a programmer.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayHelloRoman&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayHelloRoman&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayHelloRoman&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
