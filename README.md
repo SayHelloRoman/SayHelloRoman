@@ -3,7 +3,6 @@
 Hi, my name is Roman. Thank you for reading this. I am a Python developer. I'm also familiar with Lua and JavaScript. I am currently working on a discord bot AkainuBot.
 
 You can find me on:
-
 - Discord profile: SayHelloRoman#8511
 - [My discord guild](https://discord.gg/qTnRYSnTZR)
 
