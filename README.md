@@ -1,10 +1,23 @@
 # Welcome to my profile! 👋
 
-Hi, my name is Roman. I am a Python developer. I'm also familiar with Lua and JavaScript. I am currently working on a discord bot [AkainuBot](https://sayhelloroman.github.io/AkainuWeb).
+Hi, my name is Roman and I'm very excited to meet you in my profile.
 
-You can find me on:
-- Discord profile: SayHelloRoman#8511
-- [My discord guild](https://discord.gg/qTnRYSnTZR)
+I live in Ukraine and love to develop all sorts of things: website backends, bots, games, utils, and many more!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayHelloRoman&show_icons=true&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayHelloRoman&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+I am currently working on [AkainuBot](https://sayhelloroman.github.io/AkainuWeb/). The project is over 3 months old.
+Today there is already a whole team of developers.
+
+
+I also have experience with such technologies:
+
+- Python: Backend - 1 years
+- PostgreSQL - 1 years
+- MongoDB - 1 years
+
+Right now I'm learning JavaScript
+
+Here are my contact details for communication:
+
+- Discord: SayHelloRoman#8511
+- Telegram: @SayHelloRomann
