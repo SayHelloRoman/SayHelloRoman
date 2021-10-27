@@ -5,7 +5,7 @@ Hi, my name is Roman and I'm very excited to meet you in my profile.
 I live in Ukraine and love to develop all sorts of things: website backends, bots, games, utils and many more!
 
 
-I am currently working on [AkainuBot](https://sayhelloroman.github.io/AkainuWeb/). The project is over 3 months old.
+I am currently working on [AkainuBot](https://akainubot.github.io/AkainuWeb/). The project is over 3 months old.
 Today there is already a whole team of developers.
 
 
