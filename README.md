@@ -1,5 +1,7 @@
 ### Hello there!
 
-Hi, my name is Roman and I'm very excited to meet you in my profile.
+Hi, I'm Roman. Welcome to my profile.
 
-I live in Ukraine and love to develop all sorts of things: website backends, bots, games, utils and many more
+I live in Slovakia and study at FMFI UK.
+
+I mainly program in Python, focusing on web scraping, backend development, and bots.
